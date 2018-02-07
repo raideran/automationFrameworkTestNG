@@ -1,4 +1,3 @@
-target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -10,3 +9,44 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+
+
+# Compiled class file
+*.class
+
+# Screenshots Folder
+src/main/resources/screenshots
+*.jpg
+
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+# inteliJ files
+*.iml
+
+
+#Other Files
+.idea/
+*.iml
+target/
+.DS_Store
+Solarwinds-at.iml
+Solarwinds-at.ipr
+Solarwinds-at.iws
+Solarwinds-at.iws___jb_tmp___
+
+
+
+
+
+
